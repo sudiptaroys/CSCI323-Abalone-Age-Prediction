@@ -1,0 +1,5 @@
+Method,MAE,MSE,R2,Provenance
+Random Forest (default),1.5827,5.1074,0.5282,Archived report and original notebook
+Random Forest (tuned),1.5479,4.7970,0.5569,Archived report and original notebook
+XGBoost,1.5599,4.9603,0.5418,Original report screenshot; differs from public notebook saved run
+MLP,1.4999,4.4342,0.5904,Archived report; weighted subgroup outputs confirm aggregate
